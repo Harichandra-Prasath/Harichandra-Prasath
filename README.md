@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harichandra-Prasath
 - 👀 I’m interested in Backend Development and server side programming
-- 🌱 I’m currently working with delivering scalable and effecient solutions 
-- 💞️ I’m looking to collaborate on Django and Python
+- 💞️ I’m looking to collaborate on backend technologies with go or python
 - 📫 You can reach me via my gmail - 1hcp302004@gmail.com
 
 <!---

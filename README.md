@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Harichandra-Prasath
-- 👀 I’m interested in Backend Development and server side programming
-- 💞️ I’m looking to collaborate on backend technologies with go or python
-- 📫 You can reach me via my gmail - 1hcp302004@gmail.com
+Backend and Servers guy  
+Python, Go   
+Interested in Parallelism, Distributed Systems  
 
-<!---
-Harichandra-Prasath/Harichandra-Prasath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach out to me: 1hcp302004@gmail.com
